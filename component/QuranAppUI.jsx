@@ -63,7 +63,7 @@ const QuranAppUI = () => {
 
       <View style={tw`bg-purple-200 rounded-lg p-4 mb-6 overflow-hidden shadow-lg`}>
         <Image 
-          source={{ uri: 'https://i.pinimg.com/736x/81/94/7f/81947f27675dab378e9e73c7d988f659.jpg' }} 
+          source={{ uri: 'https://azislam.com/wp-content/uploads/2019/03/Al-Quran-1.jpg' }} 
           style={[tw`absolute bottom-[0.1] left-0 w-100 h-40`, { opacity: 0.6 }]}  
           resizeMode="cover" 
         />
